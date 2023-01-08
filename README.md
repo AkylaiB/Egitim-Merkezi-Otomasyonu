@@ -1,4 +1,4 @@
-# E-itim-Merkezi-Otomasyonu
+# Egitim-Merkezi-Otomasyonu
 
 * Bir eğitim merkezi kurslar vermektedir ve öğrencilerine ait verilerin 
   kontrolünü sağlayabilmek için bir otomasyon programı talep etmektedir.
